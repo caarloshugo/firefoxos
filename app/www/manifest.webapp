@@ -1,6 +1,6 @@
 {
 	"version": "0.1",
-	"name": "Your App",
+	"name": "Britny!",
 	"description": "Your new awesome Open Web App",
 	"launch_path": "/index.html",
 	"appcache_path": "/offline.appcache",
@@ -10,8 +10,8 @@
 		"128": "/img/icons/mortar-128.png"
 	},
 	"developer": {
-		"name": "Your Name",
-		"url": "http://yourawesomeapp.com"
+		"name": "Britny",
+		"url": "http://107.22.236.217/firefoxos/app/www/"
 	},
 	"installs_allowed_from": ["*"],
 	"locales": {
